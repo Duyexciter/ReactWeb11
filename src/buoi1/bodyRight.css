@@ -1,0 +1,8 @@
+.bodyRight{
+    background-color: greenyellow;
+    width: 50%;
+    height: 500px;
+}
+.body1{
+    display: flex;
+}
